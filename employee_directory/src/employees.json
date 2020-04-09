@@ -2,77 +2,77 @@
   {
     "id": 1,
     "name": "Shannon Scirghio",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Coder Supreme",
     "department": "Engineering"
   },
   {
     "id": 2,
     "name": "Mike Mayo",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Engineering God",
     "department": "Engineering"
   },
   {
     "id": 3,
     "name": "Zac Eskridge",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Dev Taco",
     "department": "Engineering"
   },
   {
     "id": 4,
     "name": "David Barrios",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Engineering God",
     "department": "Engineering"
   },
   {
     "id": 5,
     "name": "CeRae Garza",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Bricklayer",
     "department": "Construction"
   },
   {
     "id": 6,
     "name": "Jim Carlson",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Comedian",
     "department": "Entertainment"
   },
   {
     "id": 7,
     "name": "Joe Shmo",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Coder Supreme",
     "department": "Engineering"
   },
   {
     "id": 8,
     "name": "Billy Bob",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Bricklayer",
     "department": "Construction"
   },
   {
     "id": 9,
     "name": "Sally Sue",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Secretary",
     "department": "Construction"
   },
   {
     "id": 10,
     "name": "Anferny Jeselnik",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Comedian",
     "department": "Entertainment"
-  }
+  },
   {
     "id": 11,
     "name": "Dave Chapel",
-    "image": "employee.png",
+    "image": "../src/icon2.jpg",
     "role": "Singer",
     "department": "Entertainment"
   }
