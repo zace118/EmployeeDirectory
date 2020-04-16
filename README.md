@@ -5,7 +5,7 @@ An employee directory built with React. This assignment required me to break up 
 
 ## Deployment
 
-[Netlify](https://docs.netlify.com/?_ga=2.197667308.2120814141.1587007681-1831471724.1587007681)
+Deployed on [Netlify](https://docs.netlify.com/?_ga=2.197667308.2120814141.1587007681-1831471724.1587007681)
 
 ## Built With
  
