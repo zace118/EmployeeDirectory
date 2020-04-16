@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Icon from '../../icon2.png'
+import Icon from '../../icon1.png'
 
 class Card extends Component {
     render() {
