@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import Employee from './components/Employee';
 import Button from './components/Button';
 import employees from './employees.json';
@@ -34,14 +33,15 @@ class App extends Component {
     }
     render() {
         return (
-            <>
+            <div className="wrapper">
                 {/* This reads: this (class based comp.), set state(). We're setting the object of employees with the value of this.state.employees and then sort them, taking in this.sortEmployees function as it's parameter.  */}
                 <Button onClick={() => this.setState({ employees: this.state.employees.sort(this.sortEmployees) })}>Sort</Button>
                 {/* This reads: this (class based comp.), set state(). Similarly, setting the employees obj's value to this.filterEmployees(). We want the filter employees to run on click, but not immediately, which is why it is nested.  */}
                 <Button onClick={() => this.setState({ employees: this.filterEmployees() })}>Find All Engineers</Button>
                 <Employee employees={this.state.employees} />
-            </>
+            </div>
         );
     }
 }
+
 export default App;

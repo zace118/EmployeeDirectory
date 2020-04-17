@@ -1,0 +1,8 @@
+.button {
+  margin: 5px auto;
+  border: 1px solid rgb(63, 57, 57);
+  box-shadow: 0 2px 3px #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
